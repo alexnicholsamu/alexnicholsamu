@@ -26,4 +26,5 @@
 #### Please contact me!
 
 https://www.linkedin.com/in/alexandernicholsamu/
+
 alexander.k.nichols@gmail.com

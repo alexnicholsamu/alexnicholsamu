@@ -1,6 +1,6 @@
-# Sorry, most of my modern work is on my Homelab I've named Tau! I will add code for it to my GitHub later, but in the meantime I would love to give a code-tour over call to interested parties!
+# Most of my modern work is on my Homelab I've named Tau! I will add code for it to my GitHub later, but in the meantime I would love to give a code-tour over call to interested parties!
 
-### What Tau can (currently! ever expanding) do:
+### What I've worked on (so far! ever expanding) to build my hyper-personalized super smart home:
 
 - Agentic, Reasoning AI
     - LLMs (main brain)

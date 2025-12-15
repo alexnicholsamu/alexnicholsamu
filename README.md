@@ -1,4 +1,4 @@
-# Most of my modern work is on my Homelab I've named Tau! I will add code for it to my GitHub later, but in the meantime I would love to give a code-tour over call to interested parties!
+# My modern work is on Tau, a hyper-personalized agentic smart home. I will add Tau's code to my GitHub in the future, but in the meantime I am open to giving a tour of my codebase and Tau's capabilties over call to interested parties!
 
 ### What I've worked on (so far! ever expanding) to build my hyper-personalized super smart home:
 

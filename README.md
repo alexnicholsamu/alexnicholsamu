@@ -1,6 +1,6 @@
 # My modern work is on Tau, a hyper-personalized agentic smart home. I will add Tau's code to my GitHub in the future, but in the meantime I am open to giving a tour of my codebase and Tau's capabilties over call to interested parties!
 
-### What I've worked on (so far! ever expanding) to build my hyper-personalized super smart home:
+### Tau's capabiities and the skills I've honed
 
 - Agentic, Reasoning AI
     - LLMs (main brain)
